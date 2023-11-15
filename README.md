@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer/ Software Engineer
 --------------------------------
 
-I've been in the construction industry for 8 years, and been a co-owner of Veras Custom Cabinets for 3 years before getting into Nashville Software School. My passion for continuous learning has taken me to interest in software engineering, where limitless things are possible and the way I can build/create new solutions for the real world problems.
+I've been in the construction industry for more than 8 years, and been a co-owner of Veras Custom Cabinets for over 3 years before getting into Nashville Software School. My passion for continuous learning has taken me to interest in software engineering, where limitless things are possible and the way I can build/create new solutions for the real world problems.
 
 * 🌍  I'm based in Nashville, TN
 * ✉️  You can contact me at [ivanramirez2014@gmail.com](mailto:ivanramirez2014@gmail.com)
 * 🚀  I'm currently working on [Trucking Falcon](http://https://github.com/Ivanedrei/trucking_falcon_client)
-* 🧠  I'm learning UI/UX
+* 🧠  I'm learning self development and entrepreneurship. 🔥
 
 ### Skills
 
